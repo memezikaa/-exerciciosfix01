@@ -1,0 +1,13 @@
+*{
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+
+.comida{
+    padding: 10%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
